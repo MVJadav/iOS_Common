@@ -14,6 +14,12 @@ for i in (0..<(self.objCategoryModel?.Data?.Categories?.count)!){
 
 
 *********************************** FOR UITable *************************************************************
+self.IBtblPropertyList.separatorStyle            = UITableViewCellSeparatorStyle.None
+self.IBtblPropertyList.registerNib(UINib(nibName: "MyPropertyListVCCell", bundle: nil), forCellReuseIdentifier: "MyPropertyListVCCell")
+self.IBtblPropertyList.estimatedRowHeight        = 160.0
+self.IBtblPropertyList.rowHeight                 = UITableViewAutomaticDimension
+self.IBtblPropertyList.tableFooterView           = UIView()
+
 Load default Cell
 let cell = UITableViewCell(style: UITableViewCellStyle.default, reuseIdentifier: "Cell")
 cell.textLabel?.text        = "Title"
