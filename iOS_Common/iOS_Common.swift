@@ -1,4 +1,5 @@
 
+
 *********************************** FOR Button *************************************************************
     ——————————————————————
     button.setTitle("Button Title",for: .normal)
@@ -70,3 +71,27 @@ Importent Links
 https://icons8.com/
 https://www.iconfinder.com/
 http://www.flaticon.com/
+
+
+
+
+Google Map
+https://developers.google.com/maps/documentation/ios-sdk/
+https://developers.google.com/maps/documentation/ios-sdk/map-with-marker
+https://developers.google.com/maps/documentation/ios-sdk/start
+https://developers.google.com/maps/documentation/ios-sdk/utility/setup  (pod try Google-Maps-iOS-Utils)
+https://developers.google.com/places/ios-api/autocomplete
+https://developers.google.com/places/ios-api/address-form-tutorial
+https://developers.google.com/places/ios-api/autocomplete
+Current Location (Lat | Lon)
+http://www.seemuapps.com/swift-get-users-location-gps-coordinates
+—————————
+WEBView
+https://developer.apple.com/documentation/uikit/uiwebview  (Methods)
+
+Map,Fileter 
+https://useyourloaf.com/blog/swift-guide-to-map-filter-reduce/
+https://learnappmaking.com/map-reduce-filter-swift-programming/
+
+
+
